@@ -4,6 +4,6 @@ Implementation of a graph attention network and graph convolution network to pre
 3) Incorrect binary operand
 
 Instructions:
-1) Download parsed ASTs and token embeddings from here: https://drive.google.com/drive/u/0/folders/1UwqQef9fWkEbEhMe25Ej3_GF5fckVyac
+1) Download parsed ASTs and token embeddings from here: https://drive.google.com/drive/u/0/folders/1QsQPWYGakvnFMaCCgTXfSTyxE0iY9wze
 2) ```python3 GAN.py```
 3) ```python3 GCN.py``` 
